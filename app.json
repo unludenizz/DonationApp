@@ -1,0 +1,11 @@
+{
+  "name": "DonationApp",
+  "displayName": "DonationApp",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "f6129e3b-5bec-428d-9e46-68f9807f80d0"
+      }
+    }
+  }
+}
